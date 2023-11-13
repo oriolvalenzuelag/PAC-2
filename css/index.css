@@ -1,0 +1,19 @@
+
+aside{
+    height: 100%;
+    width: 30%;
+    float: left;
+    margin-left: 2vh;
+}
+article{
+    height: 100%;
+    width: 60%;
+   float: right ;
+    margin-right: 2vh;
+}
+#fotoinidi{
+    height: 30vh;
+    width: 50vh;
+    margin-left: 45vh;
+    margin-top: 5vh;
+}

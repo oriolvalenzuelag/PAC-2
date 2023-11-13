@@ -1,0 +1,10 @@
+article{
+    margin-left: 43vh;
+    margin-top: 15vh;
+    margin-bottom: 20vh;
+    display: inline-block;
+}
+.tabla{
+    border: 1px solid black;
+    font-size: 5vh;
+}

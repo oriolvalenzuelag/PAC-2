@@ -1,0 +1,50 @@
+article{
+    display: inline-block;
+}
+#bio{
+    margin-left: 2vh;
+    height: 100%;
+    width: 40%;
+    float: left;
+}
+#discos{
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-left: 7vh;
+}
+#estrella{
+    width: 40vh;
+    height: 30vh;
+    float: left;
+    margin-left: 10vh;
+}
+#micro{
+    width: 40vh;
+    height: 30vh;
+    float: right;
+    margin-right: 10vh;
+    margin-top: 2vh;
+}
+
+#primero{
+    width: 40vh;
+    height: 30vh;
+    float: right;
+    margin-right: 10vh;
+}
+#paraiso{
+    width: 40vh;
+    height: 30vh;
+    float: left;
+    margin-left: 10vh;
+    margin-top: 2vh;
+}
+#genfoto{
+    width: 45vh;
+    height: 30vh;
+    margin-left: 20vh;
+    margin-top: 2vh;
+    margin-bottom: 7.5vh;
+
+}

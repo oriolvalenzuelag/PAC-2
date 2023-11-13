@@ -1,0 +1,13 @@
+
+article{
+    display: inline-block;
+}
+
+#cancion{
+margin-left:80vh;
+margin-bottom: 2vh;
+margin-top: 2vh;
+}
+audio::-webkit-media-controls-panel{
+    background-color: lightblue;
+}
